@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      HELLOO
-    
+    NCC NAVY CEG
     </>
   )
 }
